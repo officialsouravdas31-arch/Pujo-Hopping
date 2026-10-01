@@ -1,0 +1,6 @@
+{
+  "name": "PujoPlan",
+  "description": "Kolkata Durga Puja 2026 discovery, interactive map, crowd tracking and AI route planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
